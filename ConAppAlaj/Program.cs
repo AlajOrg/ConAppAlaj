@@ -1,5 +1,3 @@
-﻿
-
 
 int sumnum(int a, int b)
 {
@@ -7,4 +5,3 @@ int sumnum(int a, int b)
     //b = int.Parse(Console.ReadLine());
     return a + b;
 }
-
