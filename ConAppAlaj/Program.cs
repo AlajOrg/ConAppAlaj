@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+
+int sumnum(int a, int b)
+{
+    //a = int.Parse(Console.ReadLine());
+    //b = int.Parse(Console.ReadLine());
+    return a + b;
+}
+
